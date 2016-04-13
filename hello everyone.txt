@@ -1,2 +1,4 @@
 print "Hello everyone"
+print "Why don't you wanna try something new"
+
 
